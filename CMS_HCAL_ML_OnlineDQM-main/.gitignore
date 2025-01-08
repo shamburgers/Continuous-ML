@@ -1,0 +1,5 @@
+/data/HBHE
+/results
+*/__pycache__*
+*.pkl
+*npy

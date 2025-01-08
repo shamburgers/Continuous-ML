@@ -1,0 +1,18 @@
+{
+    "anml_gen_size": 10,
+    "anml_strength": [
+        2.0,
+        0.8,
+        0.6,
+        0.4,
+        0.2,
+        0.0
+    ],
+    "anml_tag": "anomaly_channel",
+    "dataset": "HE",
+    "issave": true,
+    "memorysize": 5,
+    "seed": 101,
+    "skip_init_ls": 5,
+    "test_np_filename": "he_test_dataset_2022/test_data"
+}
